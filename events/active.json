@@ -1,0 +1,39 @@
+{
+  "slug": "sr-events-and-caterers-kattakkada",
+  "name": "SR Events and Caterers",
+  "shortName": "SR Events and Caterers",
+  "descriptor": "Catering & Events",
+  "address": "Killy, Kattakkada, Kulathummal, Keralam 695571",
+  "area": "Killy",
+  "city": "Kattakkada",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695571",
+  "geo": {
+    "lat": 8.4965559,
+    "lng": 77.06413839999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=12282671531536792136",
+  "phone": "+91 97463 48323",
+  "whatsapp": "919746348323",
+  "hours": "Open 6 am – 10:30 pm · all days",
+  "opens": "06:00",
+  "closes": "22:30",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "reviews": [
+    {
+      "name": "Adam Athen",
+      "rating": 5,
+      "quote": "Nice Food piece full place to visit nice care in this hotel"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://sr-events-and-caterers-kattakkada.vercel.app"
+}
